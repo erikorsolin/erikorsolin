@@ -16,6 +16,7 @@ I'm a Computer Science Student (3/8)  👨‍💻
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 
 <p align="center">
-<a href="https://www.linkedin.com/erikorsolin/" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="hhttps://www.linkedin.com/erik-orsolin/" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/erikorsolin" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
+https://www.linkedin.com/erik-orsolin
