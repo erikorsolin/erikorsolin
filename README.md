@@ -6,8 +6,7 @@ I'm a Computer Science Student (3/8)  👨‍💻
 - 🔭 I’m currently working on PET Computação  
 - 🌱 I’m currently learning about distributed computing
 - 💬 Ask me about anything and everything 
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](depaulaerik670@gmail.com) 
-
+- 📫 How to reach me: depaulaerik670@gmail.com
 
 ### Some Stats About Raghav (Public Only)
 <p align="left" >
