@@ -8,9 +8,9 @@ I'm a Computer Science Student (3/8)  👨‍💻
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: depaulaerik670@gmail.com
 
-### Some Stats About Raghav (Public Only)
+### Some Stats About Erik (Public Only)
 <p align="left" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=erikorsolin-byte&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 
