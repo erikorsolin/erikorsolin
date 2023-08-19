@@ -10,7 +10,7 @@ I'm a Computer Science Student (3/8)  👨‍💻
 
 ### Some Stats About Erik (Public Only)
 <p align="left" >
-<img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=erikorsolin-byte&show_icons=true&theme=merko"  > </p>
+<img alt="Erik github stats" src="https://github-readme-stats.vercel.app/api?username=erikorsolin-byte&show_icons=true&theme=merko"  > </p>
 
 <a href="https://sourcerer.io/Raghav-byte">Check more about me here 🌟 </a>
 
