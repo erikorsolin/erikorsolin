@@ -6,7 +6,6 @@ I'm a Computer Science Student (3/8)  👨‍💻
 - 🔭 I’m currently working on PET Computação  
 - 🌱 I’m currently learning about distributed computing
 - 🔎 Scientific researchat LaPeSD
-- 💬 Ask me about anything and everything 
 - 📫 How to reach me: depaulaerik670@gmail.com
 
 ### Some Stats About Erik (Public Only)
