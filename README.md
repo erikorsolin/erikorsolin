@@ -13,10 +13,6 @@ I'm a Computer Science Student (3/8)  👨‍💻
 <p align="left" >
 <img alt="Erik github stats" src="https://github-readme-stats.vercel.app/api?username=erikorsolin&show_icons=true&theme=merko"  > </p>
 
- Check more about me here 🌟
 
-<p align="center">
-<a href="https://www.linkedin.com/in/erik-orsolin-964651230/" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/erikorsolin" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raghav_shukl" height="25" width="25" /></a>&nbsp;&nbsp;
-</p>
+
 
