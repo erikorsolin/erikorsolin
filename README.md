@@ -12,7 +12,6 @@ I'm a Computer Science Student (3/8)  👨‍💻
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikorsolin&locale=pt-br&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/gabisartori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikorsolin&locale=pt-br&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
