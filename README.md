@@ -8,7 +8,7 @@
 - 📚 I am a Computer Science Student at [UFSC](https://ufsc.br/) (4/8).
 - 🔭 I’m currently working on [PET Computação](https://petcomputacao.ufsc.br/).
 - 🌱 I’m currently learning `Software Testing`.
-- 📫 How to reach me: erik.orsolin@grad.ufsc.br
+- 📫 How to reach me: depaulaerik670@gmail.com
 <br>
 
 <h2>Languages</h2>
