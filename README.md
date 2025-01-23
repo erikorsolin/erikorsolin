@@ -5,9 +5,9 @@
 
 <br><br>
 
-- 📚 I am a Computer Science Student at [UFSC](https://ufsc.br/) (6/8)
+- 📚 I am a Computer Science Student at [UFSC](https://ufsc.br/)
 - 🔭 I’m currently working on [Laboratório Bridge](https://portal.bridge.ufsc.br/)
-- 🎯 I’m currently learning `Software Testing`
+- 🎯 I’m currently learning `Mobile Testing`, `Android`, `Espresso` `Kotlin`
 - 📫 How to reach me: depaulaerik670@gmail.com
 <br>
 
